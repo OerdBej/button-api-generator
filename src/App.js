@@ -31,7 +31,7 @@ function App() {
       </div>
       <br />
       <button className='btn' onClick={fetchNewQuote}>
-        This is button
+        Click
       </button>
     </div>
   );
